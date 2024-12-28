@@ -24,8 +24,7 @@
 </p>
 </br>
 
-<h2>🐍 My Contributions 🐍</h2>
-### Languages and Tools:
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <!-- Languages and Tools Icons -->
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" style="margin: 15px;"/></a>
@@ -76,7 +75,7 @@
   <br/>
 </div>
 
-### Github Stats:
+<h2>⚡Github Stats ⚡</h2>
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
 
