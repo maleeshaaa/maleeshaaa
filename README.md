@@ -1,7 +1,9 @@
-![Masterhead](https://i.postimg.cc/zD40HN1T/github-header-image.png)
+<div align="center">
+    <img src="https://i.postimg.cc/zD40HN1T/github-header-image.png" alt="Masterhead" />
+</div>
 <h1 align="center">Hi 👋, I'm Maleesha Shashindi</h1>
 <h3 align="center">Full-Stack Developer | Problem Solver | Lifelong Learner</h3>
-</br>
+<br>
 <img align="right" width="370" src="https://camo.githubusercontent.com/7fd4efd6621565a2e09921d15de74e315fc4a8755660721dcb9ce5f97d27abcb/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966" alt="Coding.gif">
 
 <p align="left">
