@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maleesha Shashindi</h1>
 <h3 align="center">Aspiring Developer | Problem Solver | Lifelong Learner</h3>
 
+</br>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maleeshaaa&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshaaa" />
 </p>
@@ -13,6 +15,8 @@
 - 📫 How to reach me: **maleeshaashashindi@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1l6zbRUKvhLipv_rNevx32B4I0JClmrwf/view?usp=sharing)
 - ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs! 😊**
+
+</br>
 
 ### Connect with me:
 <p align="left">
@@ -67,6 +71,8 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/></a>
 </p>
+
+</br>
 
 ### Github Stats:
 <div>
