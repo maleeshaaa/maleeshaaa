@@ -68,7 +68,13 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50" style="margin: 15px;"/></a>
 </p>
 
-![GitHub Contribution Snake](https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&theme=highcontrast&hide_border=true)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ### Github Stats:
 <div>
