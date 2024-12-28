@@ -26,24 +26,10 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,androidstudio,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,aws,mongodb,c,cpp,cs,java,mysql,flask,dart" />
-    <img src="https://skillicons.dev/icons?i=docker,dotnet,flutter,gcp,kotlin,kubernetes,linux,mongodb,jest,laravel,mysql,npm,opencv,php,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,aws,mongodb,c,cpp,cs,java,flask,dart" />
+    <img src="https://skillicons.dev/icons?i=docker,dotnet,flutter,gcp,kotlin,kubernetes,linux,jest,laravel,mysql,npm,opencv,php,postman" />
   <img src="https://skillicons.dev/icons?i=redux,sqlite,scikitlearn,selenium,tensorflow,unity,visualstudio,vite,vuejs,pycharm,python" /><br><br>
 </div>
-<p align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50" style="margin: 15px;"/></a>
-</p>
 
 </br>
 <h2>🐍 My Contributions 🐍</h2>
