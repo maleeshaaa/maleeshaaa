@@ -69,6 +69,11 @@
 </p>
 
 </br>
+<h2>🐍 My Contributions 🐍</h2>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
 
 <h2>⚡ Github Stats ⚡</h2>
 <div>
@@ -77,11 +82,4 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
 
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&show_icons=true&locale=en&theme=radical" /></p>
-</div>
-
-</br>
-<h2>🐍 My Contributions 🐍</h2>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/>
 </div>
