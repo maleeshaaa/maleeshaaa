@@ -19,10 +19,10 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/maleesha-shashindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maleesha-shashindi" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27252752/maleesha-shashindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27252752/maleesha-shashindi" height="40" width="50" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" height="40" width="50" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/maleesha-shashindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maleesha-shashindi" height="40" width="50" /></a>
+<a href="https://stackoverflow.com/users/27252752/maleesha-shashindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27252752/maleesha-shashindi" height="40" width="50" /></a>
+<a href="https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" height="40" width="50" /></a>
+<a href="https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" height="40" width="50" /></a>
 </p>
 </br>
 
