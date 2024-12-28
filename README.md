@@ -27,8 +27,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,androidstudio,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,aws,mongodb,c,cpp,cs,java,mysql,flask,dart" />
-    <img src="https://skillicons.dev/icons?i=docker,dotnet,flutter,gcp,kotlin,kubernetes,linux,mongodb,jest,laravel,mysql,nmp,opencv,PHP,postman,pycharm,python" />
-  <img src="https://skillicons.dev/icons?i=redux,sqlite,scikitlearn,selenium,tensorflow,unity,visualstudio,vite,vuejs" /><br><br>
+    <img src="https://skillicons.dev/icons?i=docker,dotnet,flutter,gcp,kotlin,kubernetes,linux,mongodb,jest,laravel,mysql,npm,opencv,php,postman" />
+  <img src="https://skillicons.dev/icons?i=redux,sqlite,scikitlearn,selenium,tensorflow,unity,visualstudio,vite,vuejs,pycharm,python" /><br><br>
 </div>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50" style="margin: 15px;"/></a>
