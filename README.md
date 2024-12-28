@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=maleeshaaa&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshaaa" />
 </p>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/08379040ed04c695c89593ee75845b3bcfd057b7a5c3e945d8dd18fa9d74c33b/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565" alt="Coding.gif">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding.gif">
 
 - 🔭 I’m currently **Open to Work**
 - 🌱 I’m currently learning **Real-time machine learning model optimization**
