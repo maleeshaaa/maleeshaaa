@@ -67,9 +67,9 @@
 
 ### My GitHub Stats
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=chartreuse-dark" alt="maleeshaaa" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=chartreuse-dark" alt="maleeshaaa" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
 
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&show_icons=true&locale=en&theme=chartreuse-dark" /></p>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&show_icons=true&locale=en&theme=radical" /></p>
 </div>
