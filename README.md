@@ -15,9 +15,10 @@
 ### Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/maleesha-shashindi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maleesha-shashindi" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/27252752/maleesha-shashindi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="maleesha-shashindi on StackOverflow" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Maleesha Shashindi on Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mash/?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Maleesha Shashindi on Instagram" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/linkedin.com/in/maleesha-shashindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maleesha-shashindi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27252752/maleesha-shashindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27252752/maleesha-shashindi" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
