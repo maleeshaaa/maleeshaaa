@@ -19,7 +19,7 @@
 <a href="https://fb.com/https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" height="40" width="50" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" height="40" width="50" /></a>
 </p>
-<br>
+
 ### Languages and Tools:
 <p align="center">
   <!-- Languages and Tools Icons -->
@@ -64,7 +64,7 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/></a>
 </p>
-<br>
+
 ### GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true" alt="maleeshaaa" />
