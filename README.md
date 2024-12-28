@@ -71,7 +71,7 @@
 <h2>🐍 My Contributions 🐍</h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/maleeshaaa/maleeshaaa/output/github-contribution-grid-snake.svg" />
-  <br/>
+</br>
 </div>
 
 <h2>⚡ Github Stats ⚡</h2>
