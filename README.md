@@ -65,7 +65,7 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/></a>
 </p>
 
-### My GitHub Stats
+### Github Stats:
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
 
