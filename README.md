@@ -22,6 +22,8 @@
 <a href="https://instagram.com/https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" height="40" width="50" /></a>
 </p>
 
+</br>
+
 ### Languages and Tools:
 <p align="center">
   <!-- Languages and Tools Icons -->
