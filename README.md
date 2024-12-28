@@ -68,7 +68,7 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50" style="margin: 15px;"/></a>
 </p>
 
-![GitHub Contribution Snake](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=highcontrast&hide_border=true)
+![GitHub Contribution Snake](https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&theme=highcontrast&hide_border=true)
 
 ### Github Stats:
 <div>
