@@ -24,7 +24,7 @@
 </p>
 </br>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <!-- Languages and Tools Icons -->
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" style="margin: 15px;"/></a>
@@ -69,8 +69,8 @@
 </p>
 
 </br>
+<h2>🐍 My Contributions 🐍</h2>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
