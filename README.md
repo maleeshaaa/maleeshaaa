@@ -1,3 +1,4 @@
+![Masterhead](https://i.postimg.cc/sxLPpp8V/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Maleesha Shashindi</h1>
 <h3 align="center">Full-Stack Developer | Problem Solver | Lifelong Learner</h3>
 </br>
