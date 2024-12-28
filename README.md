@@ -64,11 +64,11 @@
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact" alt="maleeshaaa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true" alt="maleeshaaa" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en" alt="maleeshaaa" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true" alt="maleeshaaa" />
 </p>
 
 <p align="center">
