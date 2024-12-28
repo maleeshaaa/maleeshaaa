@@ -13,7 +13,7 @@
 - ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs! 😊**
 
 ### Connect with me:
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/maleesha-shashindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maleesha-shashindi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27252752/maleesha-shashindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27252752/maleesha-shashindi" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" height="30" width="40" /></a>
