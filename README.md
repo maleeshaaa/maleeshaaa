@@ -5,6 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=maleeshaaa&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshaaa" />
 </p>
 
+<img align="right" width="400" src="https://i.postimg.cc/CL71KXV9/54e37d8074ebcde1d96c77d7b2a7f310-607481371.gif" alt="Coding.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveenexe&label=Profile%20views&color=0e75b6&style=flat" alt="kaveenexe" /> </p>
+
+<p align="left"> <a href="https://twitter.com/kaveen_uththara" target="blank"><img src="https://img.shields.io/twitter/follow/kaveen_uththara?logo=twitter&style=for-the-badge" alt="kaveen_uththara" /></a> </p>
+
 - 🔭 I’m currently **Open to Work**
 - 🌱 I’m currently learning **Real-time machine learning model optimization**
 - 👯 I’m looking to collaborate on **Open-source Projects**
