@@ -77,4 +77,7 @@
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&show_icons=true&locale=en&theme=radical" /></p>
 </div>
 
-![Your Contribution Graph](https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&count_private=true&theme=dark)
+### My GitHub Contributions
+
+![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&hide_border=true&theme=dark)
+
