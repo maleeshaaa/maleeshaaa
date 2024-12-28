@@ -7,8 +7,6 @@
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/08379040ed04c695c89593ee75845b3bcfd057b7a5c3e945d8dd18fa9d74c33b/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565" alt="Coding.gif">
 
-<p align="left"> <a href="https://twitter.com/kaveen_uththara" target="blank"><img src="https://img.shields.io/twitter/follow/kaveen_uththara?logo=twitter&style=for-the-badge" alt="kaveen_uththara" /></a> </p>
-
 - 🔭 I’m currently **Open to Work**
 - 🌱 I’m currently learning **Real-time machine learning model optimization**
 - 👯 I’m looking to collaborate on **Open-source Projects**
