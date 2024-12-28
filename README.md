@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maleesha Shashindi</h1>
 <h3 align="center">Aspiring Developer | Problem Solver | Lifelong Learner</h3>
-<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maleeshaaa&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshaaa" />
 </p>
-<br>
 - 🔭 I’m currently **Open to Work**
 - 🌱 I’m currently learning **Real-time machine learning model optimization**
 - 👯 I’m looking to collaborate on **Open-source Projects**
