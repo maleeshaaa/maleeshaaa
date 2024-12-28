@@ -27,8 +27,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vuejs,bootstrap,mui,html,css,redux,vite,flutter,dart" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,flask,dotnet,java,python,c,cpp,cs,kotlin" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,aws,gcp,linux,docker,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv,jest,selenium,vscode,pycharm,androidstudio,figma,github,postman" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,aws,gcp,azure,linux,docker,kubernetes,fastapi,postman" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv,jest,selenium,vscode,pycharm,androidstudio,eclipse,unity,figma,git" />
 </div>
 
 </br>
