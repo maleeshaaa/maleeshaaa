@@ -14,8 +14,8 @@
 - 📫 How to reach me: **maleeshaashashindi@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1l6zbRUKvhLipv_rNevx32B4I0JClmrwf/view?usp=sharing)
 - ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs! 😊**
-
 </br>
+
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/maleesha-shashindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maleesha-shashindi" height="40" width="50" /></a>
@@ -23,8 +23,8 @@
 <a href="https://fb.com/https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1nn3fgjfmo/?mibextid=wwxifr" height="40" width="50" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mash.?igsh=mta0y2w4ngzlddd5mq%3d%3d&utm_source=qr" height="40" width="50" /></a>
 </p>
-
 </br>
+
 ### Languages and Tools:
 <p align="center">
   <!-- Languages and Tools Icons -->
@@ -68,8 +68,8 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50" style="margin: 15px;"/></a>
 </p>
-
 </br>
+
 ### Github Stats:
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
