@@ -63,11 +63,11 @@
 </p>
 
 ### GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true" alt="maleeshaaa" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true" alt="maleeshaaa" />
 </p>
 
