@@ -26,29 +26,17 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,androidstudio,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,aws,mongodb,c,cpp,cs,java,nextjs,mysql,flask,dart" />
-    <img src="https://skillicons.dev/icons?i=docker,dotnet,javascript,typescript,express,firebase,aws,mongodb,c,cpp,cs,java,nextjs,mysql,flask,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,aws,mongodb,c,cpp,cs,java,mysql,flask,dart" />
+    <img src="https://skillicons.dev/icons?i=docker,dotnet,flutter,gcp,kotlin,kubernetes,linux,mongodb,jest,laravel,mysql,nmp,opencv,php,postman,pycharm,python" />
+  <img src="https://skillicons.dev/icons?i=redux,sqlite,scikitlearn,selenium,tensorflow,unity,visualstudio,vite,vuejs" /><br><br>
 </div>
 <p align="center">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 15px;"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" style="margin: 15px;"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" style="margin: 15px;"/></a>
