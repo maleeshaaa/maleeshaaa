@@ -65,16 +65,13 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/></a>
 </p>
 
-### GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true" alt="maleeshaaa" />
-</p>
+### My GitHub Stats
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=chartreuse-dark" alt="maleeshaaa" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true" alt="maleeshaaa" />
-</p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=chartreuse-dark" alt="maleeshaaa" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&" alt="maleeshaaa" />
-</p>
-<br>
+  <a href="http://www.github.com/maleeshaaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&theme=chartreuse-dark&hide_border=true" /></a>
+  <br>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&show_icons=true&locale=en&theme=chartreuse-dark" /></p>
+</div>
