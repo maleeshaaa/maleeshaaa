@@ -74,3 +74,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&" alt="maleeshaaa" />
 </p>
+
+## My GitHub Contribution Graph
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/github-stars?username=maleeshaaa&show_icons=true&count_private=true)
