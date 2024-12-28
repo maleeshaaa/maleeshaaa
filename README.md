@@ -27,7 +27,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,androidstudio,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,aws,mongodb,c,cpp,cs,java,mysql,flask,dart" />
-    <img src="https://skillicons.dev/icons?i=docker,dotnet,flutter,gcp,kotlin,kubernetes,linux,mongodb,jest,laravel,mysql,nmp,opencv,php,postman,pycharm,python" />
+    <img src="https://skillicons.dev/icons?i=docker,dotnet,flutter,gcp,kotlin,kubernetes,linux,mongodb,jest,laravel,mysql,nmp,opencv,PHP,postman,pycharm,python" />
   <img src="https://skillicons.dev/icons?i=redux,sqlite,scikitlearn,selenium,tensorflow,unity,visualstudio,vite,vuejs" /><br><br>
 </div>
 <p align="center">
