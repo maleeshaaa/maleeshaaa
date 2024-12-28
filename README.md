@@ -76,8 +76,3 @@
 
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&show_icons=true&locale=en&theme=radical" /></p>
 </div>
-
-### My GitHub Contributions
-
-![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&hide_border=true&theme=dark)
-
