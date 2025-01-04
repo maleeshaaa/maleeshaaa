@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I’m currently **Open to Work**
-- 🌱 I’m currently learning **Real-time machine learning model optimization**
+- 🌱 I’m currently learning **Next.js, TypeScript and Tailwind CSS**
 - 👯 I’m looking to collaborate on **Open-source Projects**
 - 📫 How to reach me: **maleeshaashashindi@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1l6zbRUKvhLipv_rNevx32B4I0JClmrwf/view?usp=sharing)
