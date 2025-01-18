@@ -13,6 +13,7 @@
 - 🔭 I’m currently **Open to Work**
 - 🌱 I’m currently learning **Next.js, TypeScript and Tailwind CSS**
 - 👯 I’m looking to collaborate on **Open-source Projects**
+- 👨‍💻 All of my projects are available at [https://maleeshashashindi.web.app/](https://maleeshashashindi.web.app/)
 - 📫 How to reach me: **maleeshaashashindi@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1l6zbRUKvhLipv_rNevx32B4I0JClmrwf/view?usp=sharing)
 - ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs! 😊**
