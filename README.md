@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I’m currently **Open to Work**
-- 🌱 I’m currently learning **Next.js, TypeScript and Tailwind CSS**
+- 🌱 I’m currently learning **ASP.NET Core**
 - 👯 I’m looking to collaborate on **Open-source Projects**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://maleeshashashindi.web.app/)
 - 📫 How to reach me: **maleeshaashashindi@gmail.com**
