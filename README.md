@@ -43,16 +43,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleeshaaa&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="maleeshaaa_top_languages" />
 </div>
 
-<details>
-<summary><b>📊 My GitHub Metrics</b></summary>
-<br>
+</br>
+</br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maleeshaaa/maleeshaaa/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/maleeshaaa/maleeshaaa/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/maleeshaaa/maleeshaaa/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maleeshaaa/maleeshaaa/raw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/maleeshaaa/maleeshaaa/raw/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/maleeshaaa/maleeshaaa/raw/output/github-snake.svg" />
   </picture>
 </p>
 
-</details>
