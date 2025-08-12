@@ -38,11 +38,11 @@
 </br>
 
 <h2>⚡ Github Stats ⚡</h2>
-<div>
+<div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleeshaaa&layout=compact&theme=radical&show_icons=true&locale=en&include_forks=true" alt="maleeshaaa top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashani-rasangika&theme=dark&hide_border=false&ring=ff79c6&fire=ff79c6&currStreakLabel=50fa7b&sideNums=66d9ef&sideLabels=66d9ef&dates=66d9ef" alt="streak"/>
 </div>
 
