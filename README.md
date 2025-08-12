@@ -42,4 +42,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=radical" alt="maleeshaaa" /></p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleeshaaa&layout=compact&theme=radical&show_icons=true&locale=en&include_forks=true" alt="maleeshaaa top langs" />
 </div>
+
