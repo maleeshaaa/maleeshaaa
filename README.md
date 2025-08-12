@@ -38,10 +38,10 @@
 </br>
 
 <h2>⚡ Github Stats ⚡</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=radical" alt="maleeshaaa stats" />
 
-  <img src="https://github-readme-streak-stats.vercel.app/?user=maleeshaaa&theme=radical" alt="streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=maleeshaaa&theme=react-dark" alt="GitHub Activity Graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=radical" alt="maleeshaaa top langs" />
 </div>
