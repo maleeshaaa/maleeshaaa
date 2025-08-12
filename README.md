@@ -43,3 +43,29 @@
     
   <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=radical" alt="maleeshaaa stats" />
 </div>
+
+<details>
+<summary><b>📊 My GitHub Metrics</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaveenexe&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="kaveenexe_github_stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveenexe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="kaveenexe_top_languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveenexe&theme=tokyonight&hide_border=true" alt="kaveenexe_github_streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kaveenexe/kaveenexe/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kaveenexe/kaveenexe/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/kaveenexe/kaveenexe/blob/output/github-snake.svg" />
+  </picture>
+</p>
+
+</details>
+
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
