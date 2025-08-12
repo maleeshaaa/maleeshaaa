@@ -39,13 +39,8 @@
 
 <h2>⚡ Github Stats ⚡</h2>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=radical" alt="maleeshaaa top langs" />
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=radical" alt="maleeshaaa stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="kaveenexe_github_stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleeshaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="kaveenexe_top_languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&theme=tokyonight&hide_border=true" alt="kaveenexe_github_streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="maleeshaaa_github_stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleeshaaa&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="maleeshaaa_top_languages" />
 </div>
 
 <details>
@@ -61,8 +56,3 @@
 </p>
 
 </details>
-
-<br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<br>
