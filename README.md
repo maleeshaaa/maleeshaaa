@@ -39,7 +39,7 @@
 
 <h2>⚡ Github Stats ⚡</h2>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=radical" alt="maleeshaaa stats" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshaaa&show_icons=true&locale=en&layout=compact&include_forks=true&theme=radical" alt="maleeshaaa top langs" />
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&include_forks=true&theme=radical" alt="maleeshaaa stats" />
 </div>
