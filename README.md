@@ -41,6 +41,7 @@
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=maleeshaaa&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="maleeshaaa_github_stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleeshaaa&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="maleeshaaa_top_languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshaaa&theme=tokyonight&hide_border=true" alt="maleeshaaa_github_streak" />
 </div>
 
 </br>
