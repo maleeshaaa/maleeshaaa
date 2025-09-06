@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **Open-source Projects**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://maleeshashashindi.web.app/)
 - 📫 How to reach me: **maleeshaashashindi@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1GeA0DYMmSfl3It2AYO1U2Gw6oqnrZKOw/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/18bs-JNlybGIOVTanvx-jtfvansDY_U90/view?usp=sharing)
 - ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs! 😊**
 
 ### Connect with me:
